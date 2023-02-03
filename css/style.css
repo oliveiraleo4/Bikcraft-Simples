@@ -5,7 +5,7 @@
   --fundo-2: #ffffff;
   --cor-texto: #000000;
   --cor-subtitulo: rgba(0, 0, 0, 0.2);
-  --onda: url(./img/onda-clara.svg);
+  --onda: url("../img/onda-clara.svg");
 }
 
 @media (prefers-color-scheme: dark) {
@@ -14,7 +14,7 @@
     --fundo-2: #000000;
     --cor-texto: #ffffff;
     --cor-subtitulo: rgba(255, 255, 255, 0.2);
-    --onda: url(./img/onda-escura.svg);
+    --onda: url("../img/onda-escura.svg");
   }
 }
 
